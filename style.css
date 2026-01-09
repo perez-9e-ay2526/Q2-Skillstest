@@ -1,0 +1,35 @@
+input[type="textbox"] {
+    width: 100%
+}
+
+input[type="date"] {
+    width: 100%
+}
+
+input[type="email"] {
+    width: 100%
+}
+
+legend{
+    font-size: 10px;
+}
+
+h6{
+    font-weight: 200;
+}
+h1{
+    text-align: center;
+}
+select{
+    width: 100%
+}
+form{
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+body{
+    background-image: url(https://bluprint-onemega.com/wp-content/uploads/2023/01/BP-2023-Website-Featured-Photo-OB-Montessori-scaled.jpg);
+}
+.text-shadow{
+    text-shadow: 2px 2px 4px #000000;
+}
